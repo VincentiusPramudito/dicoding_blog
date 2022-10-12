@@ -8,7 +8,7 @@
     "build": "webpack --mode=production",
     "serve": "http-server dist"
   },
-  "author": "your_name <your_email@gmail.com>",
+  "author": "vpramudito <vpramudito@yahoo.com>",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
